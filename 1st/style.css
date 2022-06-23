@@ -1,0 +1,67 @@
+h2 {
+    background-color: blue;
+}
+
+.h2 {
+    background-color: red;
+    color: white;
+}
+
+#h2 {
+    background-color: green;
+    color: black;
+}
+
+#h23 {
+    font-style: italic;
+}
+
+
+/* #h21 {
+    color: white;
+    text-align: center;
+} */
+
+.h21 {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+div ul li a {
+    text-transform: uppercase;
+}
+
+body a {
+    color: black;
+    text-decoration: none;
+}
+
+body div {
+    font-family: cursive;
+}
+
+
+/* ul li:nth-child(even) {
+    background-color: red;
+}
+
+ul li:nth-child(odd) {
+    background-color: green;
+} */
+
+ul li:nth-child(3) {
+    background-color: teal;
+}
+
+ul li a:hover {
+    background: gray;
+}
+
+ul li a:active {
+    color: red;
+}
+
+ul li a:focus {
+    font-size: 20px;
+    /* color: aqua; */
+}
